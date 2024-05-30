@@ -119,6 +119,11 @@ body {
   font-size: 36px;
   font-weight: 700;
 }
+
+.swiper-wrapper {
+  background: #151515;
+}
+
 .swiper-slide {
   height: 100vh;
 }
